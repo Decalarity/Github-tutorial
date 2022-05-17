@@ -19,7 +19,9 @@ github - web based hosting service for version control.
 #git --version --> shows version of ur git
 #git init--> initializes a git repository
 #git status --> shows curent state of our project
-#git add(filename) or . --> adds changes to git 
+#git add(filename) or . --> adds changes to git
+# .gitignore --> to ignore spme files or directories
+
 
 
 
